@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudentManagement</string>
+
+    <string-array name="major_options">
+        <item>Information Systems</item>
+        <item>Informatics</item>
+    </string-array>
+</resources>
